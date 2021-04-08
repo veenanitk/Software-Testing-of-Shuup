@@ -5,6 +5,8 @@
 
 ### Setup a virtualenv and activate it.
 `virtualenv shuup-venv`
+
+
 `. shuup-venv/bin/activate`
 
 install selenium,chrome webdriver, mozilla webdrier
