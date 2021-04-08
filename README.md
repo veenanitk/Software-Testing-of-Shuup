@@ -1,7 +1,7 @@
 # Software-Testing-of-Shuup
 
 
-### reate a fork of Shuup in Github by clicking the “Fork” button at https://github.com/shuup/shuup and clone the fork to your computer.
+### Create a fork of Shuup in Github by clicking the “Fork” button at https://github.com/shuup/shuup and clone the fork to your computer.
 
 ### Setup a virtualenv and activate it.
 `virtualenv shuup-venv`
